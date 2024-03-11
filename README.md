@@ -1,2 +1,2 @@
 # HTML-and-CSS-practice
-Soem of my HTML and CSS practice repos are here
+Some of my HTML and CSS practice repos are here
