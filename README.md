@@ -1,4 +1,4 @@
-# HTML-and-CSS-practice
-Some of my HTML and CSS practice repos are here.
+# HTML-CSS-JS practice
+Some of my HTML, CSS and JS practice repos are here.
 
-This basic practice of HTML, CSS and JS. Some of the layouts are replica of other famous templates.
+This repo contains my basic practice of HTML, CSS and JS. Some of the layouts are replica of other famous templates.
